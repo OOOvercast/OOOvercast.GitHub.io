@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ooovercast.github.io/</id>
     <title>Gridea</title>
-    <updated>2019-06-18T10:11:50.980Z</updated>
+    <updated>2019-06-18T10:16:15.926Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://ooovercast.github.io/"/>
     <link rel="self" href="https://ooovercast.github.io//atom.xml"/>
@@ -10,6 +10,15 @@
     <logo>https://ooovercast.github.io//images/avatar.png</logo>
     <icon>https://ooovercast.github.io//favicon.ico</icon>
     <rights>All rights reserved 2019, Gridea</rights>
+    <entry>
+        <title type="html"><![CDATA[test]]></title>
+        <id>https://ooovercast.github.io//post/test</id>
+        <link href="https://ooovercast.github.io//post/test">
+        </link>
+        <updated>2019-06-18T10:13:21.000Z</updated>
+        <content type="html"><![CDATA[<p>test</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://ooovercast.github.io//post/hello-gridea</id>
